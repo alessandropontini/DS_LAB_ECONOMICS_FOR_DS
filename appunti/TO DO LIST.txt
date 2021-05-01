@@ -1,0 +1,23 @@
+******************************************
+************** TO DO CODICE **************
+******************************************
+
+0) CREARE IL FILE VUOTO (IPYTHON) E PUSHARLO 
+
+1) ANALISI DELLE CLASSI (DESCRITTIVA) CATE
+
+2) PRE-PROCESSING - (cambiare variabili in numeriche) GIU
+
+3) PRE-MODELLING PYCARET ALE
+
+4a) DATA SCIENCE (alla ML)
+
+4b) ECONOMICS (applicare statistica modelling)
+
+5) RESULTS
+
+----------
+
+Slide : https://docs.google.com/presentation/d/1m7IYtYNQJ731aq5ZBxnPsHPsJFiqx29GWgZ8Tyu7E3s/edit?usp=sharing
+
+Paper : https://docs.google.com/document/d/1tXzr_xgusnRiBXlITQgo1QaF09Tnxe-CraX1fcvwbLo/edit?usp=sharing
